@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553925352 source:c:\users\admin\documents\c program(sem-2)\contact_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
